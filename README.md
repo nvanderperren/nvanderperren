@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvanderperren&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvanderperren)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvanderperren&exclude_repo=KP-TRACKS-mediawiki-docker,cgm-remote-monitor,umap,KP-TRACKS-mediawiki&layout=compact&langs_count=10)
 
 
 
