@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvanderperren&exclude_repo=KP-TRACKS-mediawiki-docker,cgm-remote-monitor,umap,KP-TRACKS-mediawiki&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-nvanderperren.vercel.app/api/top-langs/?username=nvanderperren&exclude_repo=KP-TRACKS-mediawiki-docker,cgm-remote-monitor,umap,KP-TRACKS-mediawiki&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
